@@ -3,6 +3,6 @@
 ## 安装
 
 ```
-npm install jcore-react-native --save
+npm install jcore-jpush-react-native --save
 ```
 
