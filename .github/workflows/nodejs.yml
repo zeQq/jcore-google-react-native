@@ -2,6 +2,7 @@
 # For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
 name: npm-publish
 on:
+  workflow_dispatch:  # 添加这个事件
   push:
     branches:
       - master # Change this to your default branch
